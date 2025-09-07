@@ -34,7 +34,7 @@
 - `clear`
 - `rm -rf ZIDDI`
 - `git clone --depth=1 https://github.com/YounisXyz/ZIDDI`
-- `cd paid`
+- `cd ZIDDI`
 - `python paid.py`
 
 
