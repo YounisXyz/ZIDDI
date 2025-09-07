@@ -39,7 +39,7 @@
 
 
 
- ___This Tools is Free___</br>
+ ___Premium Tool___</br>
  [![Whatsapp](https://img.shields.io/badge/Whatsapp-MR.YOUNIS-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923194999455)
 
 
